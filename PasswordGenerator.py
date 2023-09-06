@@ -1,4 +1,8 @@
 # Password Generator Project
+#Takes a specified number of letters, symbols, and numbers from the user and
+#Generates a password of 2 types
+#Ordered: In the order the program asks the user and 
+#Shuffled: Randomly shuffled letters, numbers, and symbols.
 import random
 
 letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v',
